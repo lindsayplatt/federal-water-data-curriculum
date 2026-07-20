@@ -8,7 +8,11 @@ project:
   toc:
     - file: index.md
     - title: Data Best Practices in Water Research
-      children: []
+      children: 
+        - file: '01-data-best-practices/00_introduction.md'
+        - file: '01-data-best-practices/01_open_science.md'
+        - file: '01-data-best-practices/02_data_management.md'
+        - file: '01-data-best-practices/03_data_publishing.md'
     - title: Federal Water Data Landscape
       children:
         - file: '02-federal-water-data-landscape/00_introduction.md'
