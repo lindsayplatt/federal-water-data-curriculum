@@ -58,7 +58,7 @@ mississippi_headwaters_2025 = earthaccess.search_data(
 
 ### `hydrocron`
 
-While a user can access SWOT data through `earthaccess`, if timeseries data for specific rivers are the desired outcome, then the `hydrocron` API is the tool for the job. As the []`hydrocron` documentation](https://podaac.github.io/hydrocron) states, 
+While a user can access SWOT data through `earthaccess`, if timeseries data for specific rivers are the desired outcome, then the `hydrocron` API is the tool for the job. As the [`hydrocron` documentation](https://podaac.github.io/hydrocron) states, 
 
 > SWOT data is archived as individually timestamped shapefiles, which would otherwise require users to perform potentially thousands of file IO operations per river feature to view the data as a timeseries. Hydrocron makes this possible with a single API call.
 
